@@ -2,7 +2,6 @@ import socket, cv2, pickle, struct
 import imutils
 import threading
 import cv2
-from tblib import Frame
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 host_name = socket.gethostname()
