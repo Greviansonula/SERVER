@@ -1,3 +1,5 @@
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+gunicorn==20.1.0
 imutils==0.5.4
 numpy==1.23.1
 opencv-python==4.6.0.66
